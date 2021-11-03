@@ -11,6 +11,3 @@
 ![Carousel Screenshot](/img/screenshot/carrosel.png)
 
 
-
-
-
